@@ -6,6 +6,6 @@
  
 
 
-# 🚀 [LiVE PROJECT LINK](https://subtle-strudel-f2556f.netlify.app/) 
+# 🚀 [LiVE PROJECT LINK](https://dancing-souffle-d2164a.netlify.app/) 
 ![QR code generator](./QRgenerator.png)
 
